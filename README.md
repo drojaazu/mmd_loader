@@ -13,4 +13,4 @@ This will create the out/disc directory structure. Place any files you want on t
     make disc
 This will build the files and the disc image.
 
-Please refer to http://sudden-desu.net/page/sega-mega-cd-mmd-loader for a tutorial.
+Please refer to http://sudden-desu.net/entry/sega-mega-cd-mmd-loader for a tutorial.
